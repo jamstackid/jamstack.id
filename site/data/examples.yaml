@@ -22,4 +22,15 @@ examples:
       - tool: Netlify
       - tool: GitHub
       - tool: Google Fonts
+  - title: Hexo-theme-griddy
+    description: Hexo theme for artist & photographer showing their work
+    link: https://aflasio.netlify.com
+    thumbnailurl: https://i.ibb.co/wwgW3ZQ/mockup.jpg
+    tools:
+      - tool: Hexo
+      - tool: Bulma
+      - tool: Jquery
+      - tool: Netlify
+      - tool: GitHub
+      - tool: Google Fonts
 ---
