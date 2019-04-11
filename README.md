@@ -1,5 +1,8 @@
-# JAMstack
-
+<h1> Jamstack 
+  <a href="https://gitter.im/jamstackid" target="_blank"> 
+    <img src="https://img.shields.io/gitter/room/jamstackid/jamstackid.svg?style=round-square" /> 
+  </a>
+</h1>
 Ini adalah awal kecil dari sesuatu. Situs web JAMstack dengan beberapa baris tentang konsep dan filosofi.
 
 Seiring waktu, ini diharapkan akan tumbuh menjadi titik masuk yang berguna untuk mempelajari tentang *stack* baru ini, *sharing tools*, kiat, dan praktik terbaik serta penyebaran berita.
