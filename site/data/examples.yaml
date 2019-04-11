@@ -25,7 +25,7 @@ examples:
   - title: Hexo-theme-griddy
     description: Hexo theme for artist & photographer showing their work
     link: https://aflasio.netlify.com
-    thumbnailurl: https://i.ibb.co/wwgW3ZQ/mockup.jpg
+    thumbnailurl: https://cdn.staticaly.com/screenshot/aflasio.netlify.com?w=596&h=396
     tools:
       - tool: Hexo
       - tool: Bulma
