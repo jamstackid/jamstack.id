@@ -1,5 +1,5 @@
 ---
-jamstack: "**JAMstack**: kata benda &#92;’jam-stek’&#92; <span><br></span>Arsitektur pengembangan web modern berdasarkan pada JavaScript sisi klien, interaktif API, dan Markup prebuilt."
+jamstack: "**JAMstack**: kata benda &#92;’jem-stek’&#92; <span><br></span>Arsitektur pengembangan web modern berdasarkan pada JavaScript sisi klien, interaktif API, dan Markup prebuilt."
 explanation: Ketika kita berbicara tentang "Stack," kita tidak lagi berbicara tentang sistem operasi, server web tertentu, bahasa pemrograman backend, atau database.<br><br>JAMstack bukan tentang teknologi spesifik. Ini adalah cara baru untuk membangun situs web dan aplikasi yang memberikan kinerja yang lebih baik, keamanan yang lebih tinggi, biaya penskalaan yang lebih rendah, dan pengalaman pengembang yang lebih baik.
 
 javascript: "Pemrograman dinamis apa pun selama siklus permintaan/respons ditangani oleh JavaScript, berjalan sepenuhnya pada klien. Ini bisa berupa kerangka frontend, pustaka, atau bahkan vanilla JavaScript."
