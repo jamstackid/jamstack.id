@@ -33,4 +33,24 @@ examples:
       - tool: Netlify
       - tool: GitHub
       - tool: Google Fonts
+  - title: Petani Kode
+    description: Blog tutorial pemrograman
+    link: https://www.petanikode.com
+    thumbnailurl: https://cdn.staticaly.com/screenshot/www.petanikode.com?w=596&h=396
+    tools:
+      - tool: Hugo
+      - tool: Bootstrap
+      - tool: Jquery
+      - tool: Netlify
+      - tool: Algolia
+      - tool: Disqus
+      - tool: FontAwesome
+      - tool: Twemoji
+      - tool: Vuejs
+      - tool: Prismjs
+      - tool: Gulp
+      - tool: Webpack
+      - tool: Google Analytics
+      - tool: Facebook Pixel
+      - tool: Google Fonts
 ---
