@@ -45,6 +45,7 @@ examples:
       - tool: Algolia
       - tool: Disqus
       - tool: FontAwesome
+      - tool: Twemoji
       - tool: Vuejs
       - tool: Prismjs
       - tool: Gulp
